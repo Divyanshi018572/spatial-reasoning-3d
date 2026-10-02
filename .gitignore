@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Outputs
+outputs/
+*.json
+screenshots/
+*.mp4
+*.mkv
+*.gif
+*.avi
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Large inputs (already in repo but ignore if regenerated)
+*.obj
+*.ply
+*.stl
