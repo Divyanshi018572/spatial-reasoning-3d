@@ -1,0 +1,402 @@
+[
+  {
+    "id": 8,
+    "type": "large_crate",
+    "dims": [
+      30,
+      30,
+      30
+    ],
+    "pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "placed_dims": [
+      30,
+      30,
+      30
+    ],
+    "placed": true
+  },
+  {
+    "id": 9,
+    "type": "large_crate",
+    "dims": [
+      30,
+      30,
+      30
+    ],
+    "pos": [
+      30.0,
+      0.0,
+      0.0
+    ],
+    "placed_dims": [
+      30,
+      30,
+      30
+    ],
+    "placed": true
+  },
+  {
+    "id": 4,
+    "type": "flat_panel",
+    "dims": [
+      50,
+      50,
+      10
+    ],
+    "pos": [
+      60.0,
+      0.0,
+      0.0
+    ],
+    "placed_dims": [
+      10,
+      50,
+      50
+    ],
+    "placed": true
+  },
+  {
+    "id": 5,
+    "type": "flat_panel",
+    "dims": [
+      50,
+      50,
+      10
+    ],
+    "pos": [
+      70.0,
+      0.0,
+      0.0
+    ],
+    "placed_dims": [
+      10,
+      50,
+      50
+    ],
+    "placed": true
+  },
+  {
+    "id": 1,
+    "type": "standard_box",
+    "dims": [
+      20,
+      20,
+      20
+    ],
+    "pos": [
+      80.0,
+      0.0,
+      0.0
+    ],
+    "placed_dims": [
+      20,
+      20,
+      20
+    ],
+    "placed": true
+  },
+  {
+    "id": 2,
+    "type": "standard_box",
+    "dims": [
+      20,
+      20,
+      20
+    ],
+    "pos": [
+      80.0,
+      20.0,
+      0.0
+    ],
+    "placed_dims": [
+      20,
+      20,
+      20
+    ],
+    "placed": true
+  },
+  {
+    "id": 3,
+    "type": "standard_box",
+    "dims": [
+      20,
+      20,
+      20
+    ],
+    "pos": [
+      0.0,
+      30.0,
+      0.0
+    ],
+    "placed_dims": [
+      20,
+      20,
+      20
+    ],
+    "placed": true
+  },
+  {
+    "id": 20,
+    "type": "flat_box",
+    "dims": [
+      25,
+      25,
+      10
+    ],
+    "pos": [
+      20.0,
+      30.0,
+      0.0
+    ],
+    "placed_dims": [
+      25,
+      25,
+      10
+    ],
+    "placed": true
+  },
+  {
+    "id": 6,
+    "type": "long_beam",
+    "dims": [
+      10,
+      10,
+      60
+    ],
+    "pos": [
+      45.0,
+      30.0,
+      0.0
+    ],
+    "placed_dims": [
+      10,
+      10,
+      60
+    ],
+    "placed": true
+  },
+  {
+    "id": 7,
+    "type": "long_beam",
+    "dims": [
+      10,
+      10,
+      60
+    ],
+    "pos": [
+      45.0,
+      40.0,
+      0.0
+    ],
+    "placed_dims": [
+      10,
+      10,
+      60
+    ],
+    "placed": true
+  },
+  {
+    "id": 18,
+    "type": "long_box",
+    "dims": [
+      40,
+      10,
+      10
+    ],
+    "pos": [
+      80.0,
+      40.0,
+      0.0
+    ],
+    "placed_dims": [
+      10,
+      40,
+      10
+    ],
+    "placed": true
+  },
+  {
+    "id": 19,
+    "type": "long_box",
+    "dims": [
+      40,
+      10,
+      10
+    ],
+    "pos": [
+      90.0,
+      40.0,
+      0.0
+    ],
+    "placed_dims": [
+      10,
+      40,
+      10
+    ],
+    "placed": true
+  },
+  {
+    "id": 10,
+    "type": "medium_cube",
+    "dims": [
+      15,
+      15,
+      15
+    ],
+    "pos": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "placed_dims": [
+      15,
+      15,
+      15
+    ],
+    "placed": true
+  },
+  {
+    "id": 11,
+    "type": "medium_cube",
+    "dims": [
+      15,
+      15,
+      15
+    ],
+    "pos": [
+      45.0,
+      50.0,
+      0.0
+    ],
+    "placed_dims": [
+      15,
+      15,
+      15
+    ],
+    "placed": true
+  },
+  {
+    "id": 12,
+    "type": "medium_cube",
+    "dims": [
+      15,
+      15,
+      15
+    ],
+    "pos": [
+      60.0,
+      50.0,
+      0.0
+    ],
+    "placed_dims": [
+      15,
+      15,
+      15
+    ],
+    "placed": true
+  },
+  {
+    "id": 13,
+    "type": "medium_cube",
+    "dims": [
+      15,
+      15,
+      15
+    ],
+    "pos": [
+      20.0,
+      55.0,
+      0.0
+    ],
+    "placed_dims": [
+      15,
+      15,
+      15
+    ],
+    "placed": true
+  },
+  {
+    "id": 14,
+    "type": "small_filler",
+    "dims": [
+      5,
+      5,
+      5
+    ],
+    "pos": [
+      55.0,
+      30.0,
+      0.0
+    ],
+    "placed_dims": [
+      5,
+      5,
+      5
+    ],
+    "placed": true
+  },
+  {
+    "id": 15,
+    "type": "small_filler",
+    "dims": [
+      5,
+      5,
+      5
+    ],
+    "pos": [
+      55.0,
+      35.0,
+      0.0
+    ],
+    "placed_dims": [
+      5,
+      5,
+      5
+    ],
+    "placed": true
+  },
+  {
+    "id": 16,
+    "type": "small_filler",
+    "dims": [
+      5,
+      5,
+      5
+    ],
+    "pos": [
+      55.0,
+      40.0,
+      0.0
+    ],
+    "placed_dims": [
+      5,
+      5,
+      5
+    ],
+    "placed": true
+  },
+  {
+    "id": 17,
+    "type": "small_filler",
+    "dims": [
+      5,
+      5,
+      5
+    ],
+    "pos": [
+      55.0,
+      45.0,
+      0.0
+    ],
+    "placed_dims": [
+      5,
+      5,
+      5
+    ],
+    "placed": true
+  }
+]
